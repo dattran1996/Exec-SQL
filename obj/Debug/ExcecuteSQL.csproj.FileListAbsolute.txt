@@ -1,0 +1,8 @@
+C:\Users\phan huu tin\Desktop\ExcecuteSQL\ExcecuteSQL\bin\Debug\ExcecuteSQL.exe.config
+C:\Users\phan huu tin\Desktop\ExcecuteSQL\ExcecuteSQL\bin\Debug\ExcecuteSQL.exe
+C:\Users\phan huu tin\Desktop\ExcecuteSQL\ExcecuteSQL\bin\Debug\ExcecuteSQL.pdb
+C:\Users\phan huu tin\Desktop\ExcecuteSQL\ExcecuteSQL\obj\Debug\ExcecuteSQL.csproj.CoreCompileInputs.cache
+C:\Users\phan huu tin\Desktop\ExcecuteSQL\ExcecuteSQL\obj\Debug\ExcecuteSQL.exe
+C:\Users\phan huu tin\Desktop\ExcecuteSQL\ExcecuteSQL\obj\Debug\ExcecuteSQL.pdb
+C:\Users\phan huu tin\Desktop\ExcecuteSQL\ExcecuteSQL\bin\Debug\Readme.txt
+C:\Users\phan huu tin\Desktop\ExcecuteSQL\ExcecuteSQL\obj\Debug\ExcecuteSQL.csproj.AssemblyReference.cache
